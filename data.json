@@ -5,7 +5,7 @@
   "antarctica": 0,
   "asia": 1.0,
   "europe": 0,
-  "north-america": 0,
+  "north-america": 50.0,
   "oceania": 0,
   "south-america": 0
  }
