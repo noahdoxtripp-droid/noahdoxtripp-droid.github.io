@@ -2,11 +2,11 @@
  "partners": {},
  "raised": {
   "africa": 0,
-  "antarctica": 0,
+  "antarctica": 250.0,
   "asia": 1.0,
   "europe": 0,
   "north-america": 50.0,
-  "oceania": 0,
+  "oceania": 250.0,
   "south-america": 0
  }
 }
